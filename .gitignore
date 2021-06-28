@@ -2,5 +2,4 @@
 *.swp
 
 # ignore directories
-build/
 .vscode/
