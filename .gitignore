@@ -1,2 +1,6 @@
-build
+# ignore files
 *.swp
+
+# ignore directories
+build/
+.vscode/
